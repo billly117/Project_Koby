@@ -1,0 +1,16 @@
+Exercice 1 : emacs &
+
+Exercice 2
+
+Compilation (plus modif nom executable): gcc eternel.c -o eternel
+Execution : ./eternel 
+
+Exercice 3 : gcc histogramme.c > test.gnu puis gnuplot -p test.gnu mais rien ne se passe.
+
+Exercice 4 : 
+
+2) ls schtroumpf > err.txt mais toujours rien d'afficher dans les fichiers redirigés (pourtant bonne syntaxe nan ?)
+
+Exercice 5 PAS FAIT
+
+Exercice 6 PAS FAIT
