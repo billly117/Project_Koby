@@ -19,18 +19,3 @@ Exercice 4
 1) On remonte à la racine on se dirige vers tmp on affiche avec ls -L
 2) On trouve une fichier avec un "r" dans le second emplacement.
 3) La copie de /tmp vers le fichier de login n'a pas fonctionné mais l'essai de TP1 vers TP2 a fonctionné. Soit problème de droits (je sais pas lire), soir erreur de copie dans la commande.
-4) Toujours sur le dossier TP1
-
-Exercice 5
-
-On suit juste l'énoncé
-
-Exerice 6
-
-Je fais ça chez moi et j'ai pas d'amis.
-
-Exercice 7 (une partie seulement car toujours pas de voisin)
-
-1) chmod go-r exo5 MP2I MPI tp1.txt puis chmod u+r exo5 MP2I MPI tp1.txt (pas compris pk les droits de lecture m'ont été retiré).
-2) création basique + modification de droits basique
-3) idem
