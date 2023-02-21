@@ -1,0 +1,95 @@
+Tests pour la fonction aire_rectangle: 
+45.209999 
+0.000000
+0.375000 
+
+Tests pour la fonction hypothenuse: 
+5.099020 
+7.000000
+8.602325 
+
+Tests pour la fonction cotes_triangle: 
+1 
+0
+0 
+
+Tests pour la fonction suivant_syracuse: 
+0 
+52
+406
+21 
+
+Les tests pour valeur_absolue sont des asserts.
+
+Les tests pour racine_par_dichotomie ne sont pas ceux de la prof.
+
+ racine 12.000000 = 3.464661
+ racine 0.540000 = 0.734961
+ racine 64.000000 = 7.999252
+Tests pour la fonction aire_rectangle: 
+45.209999 
+0.000000
+0.375000 
+
+Tests pour la fonction hypothenuse: 
+5.099020 
+7.000000
+8.602325 
+
+Tests pour la fonction cotes_triangle: 
+1 
+0
+0 
+
+Tests pour la fonction suivant_syracuse: 
+0 
+52
+406
+21 
+
+Les tests pour valeur_absolue sont des asserts.
+
+Les tests pour racine_par_dichotomie ne sont pas ceux de la prof.
+
+racine 12.000000 = 3.464661
+racine 0.540000 = 0.734961
+racine 64.000000 = 7.999252
+Les tests pour racine_Heron ne sont pas ceux de la prof.
+
+racine de 12.000000 est 3.464102
+racine de 0.540000 est 0.734847
+racine de 64.000000 est 8.000002
+Tests pour la fonction aire_rectangle: 
+45.209999 
+0.000000
+0.375000 
+
+Tests pour la fonction hypothenuse: 
+5.099020 
+7.000000
+8.602325 
+
+Tests pour la fonction cotes_triangle: 
+1 
+0
+0 
+
+Tests pour la fonction suivant_syracuse: 
+0 
+52
+406
+21 
+
+Les tests pour valeur_absolue sont des asserts.
+
+Les tests pour racine_par_dichotomie ne sont pas ceux de la prof.
+
+racine 12.000000 = 3.464661
+racine 0.540000 = 0.734961
+racine 64.000000 = 7.999252
+
+Les tests pour racine_Heron ne sont pas ceux de la prof.
+
+racine de 12.000000 est 3.464102
+racine de 0.540000 est 0.734847
+racine de 64.000000 est 8.000002
