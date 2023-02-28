@@ -1,0 +1,7 @@
+Les tests de nombres_positifs sont des asserts.
+Les tests de somme sont des asserts.
+Les tests de trouve sont des asserts.
+Les tests de copie sont des asserts.
+Les tests de miroir sont des asserts.
+Les tests de plus_petite_distance sont des asserts.
+Les tests de maximum_local sont des asserts.

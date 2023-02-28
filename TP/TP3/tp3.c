@@ -140,7 +140,4 @@ int main(void){
     racine_Heron(r,eps);
     racine_Heron(s,eps);
     racine_Heron(t,eps);
-
-
-
 }
